@@ -32,6 +32,12 @@ let words = {
     by: "Richelle E. Goodrich",
     career: "American author and poet",
   },
+  "will durant": {
+    quote:
+      "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    by: "Will Durant",
+    career: "American writer, historian, and philosopher",
+  },
   unknown: {
     quote: "unknown",
     by: "unknown",
