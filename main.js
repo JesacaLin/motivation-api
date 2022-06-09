@@ -9,6 +9,7 @@ async function apiRequest() {
     const data = await response.json();
     console.log(data);
     document.querySelector("h2").innerText = data.quote;
+    document.querySelector("h4").innerText = data.career;
   } catch (error) {
     console.log(error);
   }
